@@ -1,0 +1,15 @@
+../Core/Src/segment.c:48:9:encodeDigit	16	static
+../Core/Src/segment.c:58:6:TM1637_ClkHigh	16	static
+../Core/Src/segment.c:63:6:TM1637_ClkLow	16	static
+../Core/Src/segment.c:68:6:TM1637_DataHigh	16	static
+../Core/Src/segment.c:73:6:TM1637_DataLow	16	static
+../Core/Src/segment.c:79:6:TM1637_Init	32	static
+../Core/Src/segment.c:91:6:clear	56	static
+../Core/Src/segment.c:97:6:TM1637_Start	24	static
+../Core/Src/segment.c:105:6:TM1637_Stop	24	static
+../Core/Src/segment.c:116:6:TM1637_ReadResult	24	static
+../Core/Src/segment.c:126:6:TM1637_WriteByte	32	static
+../Core/Src/segment.c:143:6:TM1637_DelayUsec	24	static,ignoring_inline_asm
+../Core/Src/segment.c:152:6:TM1637_SetBrightness	32	static
+../Core/Src/segment.c:165:6:setSegments	32	static
+../Core/Src/segment.c:191:6:displayDecimal	72	static
